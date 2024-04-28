@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "658003928356",
+    "project_id": "mirea21hotel",
+    "storage_bucket": "mirea21hotel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658003928356:android:32d2b4e8d51aa20f3ebfb1",
+        "android_client_info": {
+          "package_name": "mirea.mobile.kamilla"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658003928356-gjht1s19b56805bog9ifo2oj6i71hfb6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mirea.mobile.kamilla",
+            "certificate_hash": "c86b384fe090524d571aa329aa04c62dc86c7253"
+          }
+        },
+        {
+          "client_id": "658003928356-k616fud8cba23hdjpmjphdrvuht5610h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdT2-fNgan8_BuWpzRwbQaabOdowgn1SE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658003928356-k616fud8cba23hdjpmjphdrvuht5610h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Hotel App</string>
+    <string name="hotel_name">Отель "Отельный рай"</string>
+    <string name="reg_btn">Зарегистрироваться</string>
+    <string name="log_btn">Войти</string>
+    <string name="registration">Регистрация</string>
+    <string name="authorization">Авторизация</string>
+    <string name="logout_btn">Выйти из аккаунта</string>
+    <string name="about">Отель «Отельный рай» - это уникальное место, обладающее своей неповторимой атмосферой, которую непременно ощутит на себе каждый гость, попавший на его территорию. Отель предлагает гостям 70 номеров различной категории: от «стандартов» до номеров категории «Люкс», ресторан на 100 мест, конференц-зал на 60 мест.Удачное месторасположение позволит гостям наслаждаться тишиной в самом сердце курорта.</string>
+    <string name="contacts">Контакты</string>
+    <string name="phone">+78008000800</string>
+    <string name="email">hotel@mail.ru</string>
+    <string name="address">Краснодарский край, город Сочи, Приморская улица, 3/10</string>
+    <string name="place">Местоположение</string>
+    <string name="maps">Построить маршрут</string>
+    <string name="stocks">Акции и спецпредложения</string>
+    <string name="booking">Бронирование номеров</string>
+    <string name="booking_btn">Забронировать</string>
+    <string name="room_type">Тип номера:</string>
+    <string name="guests_number">Количество гостей:</string>
+    <string name="date_in">Дата заезда:</string>
+    <string name="date_out">Дата выезда:</string>
+    <string name="data_format">ДД-ММ-ГГГГ</string>
+    <string name="child_bed">Детская кроватка:</string>
+    <string name="current_bookings">Ваши текущие брони</string>
+    <string name="bookings_btn">Текущие брони</string>
+
+    <string-array name="roomType">
+        <item>Стандарт</item>
+        <item>Люкс</item>
+    </string-array>
+
+    <string-array name="guestsNumber">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+</resources>

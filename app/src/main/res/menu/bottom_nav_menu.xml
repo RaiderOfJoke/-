@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Бронирование"
+        android:id="@+id/booking"
+        android:icon="@drawable/ic_baseline_apartment_24" />
+
+    <item android:title="Галерея"
+        android:id="@+id/gallery"
+        android:icon="@drawable/ic_baseline_photo_library_24" />
+
+    <item android:title="Акции"
+        android:id="@+id/stocks"
+        android:icon="@drawable/ic_baseline_discount_24" />
+
+    <item android:title="Контакты"
+        android:id="@+id/contacts"
+        android:icon="@drawable/ic_baseline_contacts_24" />
+
+</menu>
+
